@@ -1,45 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jidian191.github.io/</id>
-    <title>Gridea</title>
-    <updated>2021-12-14T14:59:30.098Z</updated>
+    <title>机电191官网</title>
+    <updated>2021-12-14T15:38:23.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jidian191.github.io/"/>
     <link rel="self" href="https://jidian191.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://jidian191.github.io/images/avatar.png</logo>
     <icon>https://jidian191.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 机电191官网</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://jidian191.github.io/post/hello-gridea/</id>
-        <link href="https://jidian191.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[关于开展2021-2022寒假社会实践通知]]></title>
+        <id>https://jidian191.github.io/post/guan-yu-kai-zhan-2021-2022-han-jia-she-hui-shi-jian-tong-zhi/</id>
+        <link href="https://jidian191.github.io/post/guan-yu-kai-zhan-2021-2022-han-jia-she-hui-shi-jian-tong-zhi/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2021-12-14T15:06:11.000Z</updated>
+        <content type="html"><![CDATA[<p>1.社会实践必修修满0.3学分，可以通过PU口袋查看<br>
+2.本次社会实践对数量上做出了一定的要求——2021-2022寒假社会实践的数量+2021-2022暑假社会实践数量≤4<br>
+3.本次社会实践允许跨班级、学院组队，但是不允许跨校组队</p>
+<p>关于本次社会实践的<strong>活动方向</strong>详见：https://www.lanzouy.com/i9rcFxm6csb  密码:1234<br>
+关于本次社会实践<strong>格式要求</strong>详见：https://www.lanzouy.com/iAzdrxm6juf  密码:1234<br>
+关于本次社会实践<strong>接受地证明</strong>详见：https://www.lanzouy.com/idXR6xm6lah  密码:1234<br>
+关于本次社会实践<strong>返家乡</strong>方向的要求详见：https://www.lanzouy.com/iSdipxm6mra  密码:1234</p>
 ]]></content>
     </entry>
 </feed>
